@@ -1,0 +1,4 @@
+# Install komponen yang dibutuhkan berikut dengan cara mengetik di Command Prompt atau di Terminal VsCode jika pakai:
+pip intall opencv-contrib-python
+pip install numpy
+pip intall matplotlib
